@@ -1,0 +1,9 @@
+Flask==2.0.3
+pyppeteer==0.2.5
+requests==2.25.1
+beautifulsoup4==4.9.3
+marshmallow==3.11.1
+pause==0.3
+functions-framework==3.0.0
+pyppeteer_stealth==2.7.3
+nest_asyncio==1.5.8

@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "modular-aileron-415112",
+  "private_key_id": "78888b2d4e7d1fe5c224eacd762fa9e3933e4096",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC6EGpO3D5+BFW+\neRgh/DuKGgMQbBz8W/bQ4v9Op6P/sFRgiXlUHMqmHnHYFUcuqhSBLhp7qSQ4iGX4\nN+I5cfzI0xwf5SVtDXdZmKHiS8bOq1V2AjZfS5QWoHIbfL/Y6bTIGXXiTnIuQ/y4\nml2f/AGZ3yq+BnpsvbWbB2azuUsYUYvGRVowsBeNv/xpLsN9LyD4h9wSVqU2pbW1\nvrhcu3nNVWRjWO51R7xry1vOL4r+6gYrQi78b31FOAacOheMfQ7I10HMPlHoCI7x\n2dLNakYXwsYIblSu2CGo9ufrVcL6U5AmhAaw0P+lkoNAQE6dYtC4ZRoNWdneD2rK\nTNj5AqYTAgMBAAECggEAUDiDnTyYNPzpexX6saxufzx31bzHQobkA2vbZ64fpz3/\nIyAij4FaXgUCUIfcCOKLtKaMBIUIeNdWH474movq0Ss0FQxW9o23x4lnQoopTTHR\nxu9tQej0EE1c5T0D+iHJL/zKNqhb0la9v1nOxAuDJTRy2TsxzXB9vDmUrihVmEXU\nC1v2rCFlP/cgDIB+zzXXmsERjPCefn7JF93gJ0AtP1y7S1d6jjivjDrBcYTDvoFd\nBWGWC3uwszG0CQjFuzesuI0muAUxBRNmJFERN8g5+vbuv/nf1NfD6Zs1SLyKAoMJ\nHHAzCHrCmBZKrRCO4I3s7GaW29Yr/bSNkbcmRFE2AQKBgQDiW3we8WhhIpLSs+XH\nCahtsUmpR3rRWwb5fFdW/C2oJcL/YP6RV9WjXQIytpWI+AFoRyRHBUtioflx93EC\nrad50k+6X6Vg6lOG+BiUr2G1GyKqKE0Gg5fxo12+ccoLhcU/BFC0XjC79tAV9bmJ\n23I64WDj3B2GIuQGLIqRxWwU6QKBgQDSbh69WSep8JKikn1b+5oQMUZ+n+5HZjoQ\nYsyikBkVykWdLkA3qeIHCcOHNImUaEaXc6PkE/jwwRWi5cGzIYohbXPSLUlr0wx8\nTxI5sDaAuOuwr+zU2UeAUUaLbqg/ugTKCQm5BWHUwx5Oh3P145l8qw/Ha658I9Nx\n5VOZ3rf1mwKBgFqN0sfmN6W0WRxlz6SinnjTle5cpCugyNeCAMbRt8ou4SWdPfoT\nM2pZSQnUtVnILXf0DfVDjvb0aYBIRzOVGQzJMBAVN2ngFG5ITj0dNG9pXaLI4Jec\niWqnulb32qZla5VcOpUNoV1wzaobVZBq8/XOOB6v7je9OY+mvgC3BBgRAoGBALYU\nCM8oDLTz771x6bykiRtHt8qrEd9/6e/xvUVQUBRVsESgF3rSqTwTy7b606yxSZuU\nuRQJ4BZZzCHmkeMwuzfPYC9VdjkxJZWOSaPXAGIDIBUDNHa8By1VpifRuQ1jJO+4\nQExzBsK1jky+0azKoi2ISp/wYcsSqMvddagnWZ/PAoGAJXkDg55HJ3U186GQyA2+\nF7U738mGeeyTYhbOLu8IrWUs4EQyNDwSyEbF8YelmnGR4meXwkvbl4JTSje606kK\nWGnrcJbDG8CZf8p65qO4s6DHncILunOsFVzPEa02OdKN7IP2ST0xEEzhwXSzu77P\nc8mAwppz+tnnWk89yZPJfhk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "modular-aileron-415112@appspot.gserviceaccount.com",
+  "client_id": "104455069677358435539",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/modular-aileron-415112%40appspot.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
